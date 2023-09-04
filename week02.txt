@@ -1,5 +1,5 @@
 week02
--linux command : ls,ls-al,pwd=(현재 위치 폴더보는) cd.git, cd..
+-linux command : ls,ls-al,pwd=(현재 위치 폴더보는) cd.git, cd.., echo "b
 -git command 
 	git init =현재 폴더를 갖다가 git이 관리하게 만드는
 	git status
@@ -8,3 +8,6 @@ week02
 	git config -- user.mane"choi eun sol"
 	git commit -m "v0" 
 	git log
+	git checkout hashcode
+	git checkout -
+	git branch -M main 
